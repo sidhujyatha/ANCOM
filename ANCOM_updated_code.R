@@ -220,9 +220,9 @@ comparison_test$W.taxa
 
 
 ####Longitudinal test
-OTU_ANCOM_Test <- read.delim("~/Dropbox/Work at NIEHS/OTU_Ancom_Test_Counts.txt")
+OTU_ANCOM_Test <- read.delim("OTU_Ancom_Test_Counts.txt")
 
-Mapping_File_ANCOM_Test <- read.delim("~/Dropbox/Work at NIEHS/OTU_Ancom_Test_Mapping.txt")
+Mapping_File_ANCOM_Test <- read.delim("OTU_Ancom_Test_Mapping.txt")
 
 #data_test=merge(OTU_ANCOM_Test,Mapping_File_ANCOM_Test,by="Sample.ID")
 
