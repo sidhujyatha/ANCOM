@@ -1,3 +1,5 @@
+### An updated version of this file is now on Github. Please see ANCOM_updated_code_06_06_2020.R
+
 library(exactRankTests)
 library(nlme)
 library(ggplot2)
